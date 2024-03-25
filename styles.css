@@ -38,7 +38,7 @@ p {
   color: black;
   text-align: center;
 }
-#full {
+.full {
 	height: 100%;
 	margin: 0;
 }
