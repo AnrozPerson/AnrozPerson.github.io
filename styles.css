@@ -46,9 +46,16 @@ p {
   color: black;
   text-align: center;
 }
+.intro {
+	height: 100%;
+	background-color: DarkGray;
+}
 .full {
 	height: 100%;
-	width: 100;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	background-color: #f4f4f4;
 }
 .centre {
   margin: auto;
@@ -56,4 +63,14 @@ p {
   border: 3px solid blue;
   padding: 10px;
   text-align: center;
+}
+.personal_img {
+    width: 50%;
+    height: 50%;
+    border-radius: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
 }
