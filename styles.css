@@ -3,7 +3,6 @@ head {
 }
 body {
   font-family: Arial, sans-serif;
-  height: 100%;
 }
 ul {
   list-style-type: none;
@@ -49,6 +48,7 @@ p {
 }
 .full {
 	height: 100%;
+	width: 100;
 }
 .centre {
   margin: auto;
